@@ -1,0 +1,10 @@
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\bin\Debug\Hangman game.exe.config
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\bin\Debug\Hangman game.exe
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\bin\Debug\Hangman game.pdb
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman game.csproj.AssemblyReference.cache
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman_game.Properties.Resources.resources
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman game.csproj.GenerateResource.cache
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman game.csproj.CoreCompileInputs.cache
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman game.exe
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\Hangman game.pdb
+C:\Users\lungi\OneDrive\Desktop\Hangman game\Hangman game\obj\Debug\HangmanGame.HangmanForm.resources
